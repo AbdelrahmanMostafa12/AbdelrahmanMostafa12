@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
+<h3 align="center">A passionate AI engineer from Egypt</h3>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -27,8 +30,6 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A passionate AI engineer from Egypt</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
